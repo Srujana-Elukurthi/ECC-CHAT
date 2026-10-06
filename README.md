@@ -265,7 +265,7 @@ SChat/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/SaiVishwanathV/ECC-chat.git
+git clone https://github.com/Srujana-Elukurthi/ECC-CHAT.git
 
 cd ECC-chat
 ```
